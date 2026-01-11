@@ -1,0 +1,1 @@
+# FAISS-HNSW-Semantic-Search-with-HuggingFace-Embeddings
